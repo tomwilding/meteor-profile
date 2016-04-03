@@ -1,6 +1,6 @@
 # meteor-profile
 
-** Welcome to Digitech with Meteor
+Welcome to Digitech with Meteor
 
 Please see [here](https://www.meteor.com/) for the Meteor docs
 
