@@ -2,7 +2,7 @@
 
 ** Welcome to Digitech with Meteor
 
-Please see (here)[https://www.meteor.com/] for the Meteor docs
+Please see [here](https://www.meteor.com/) for the Meteor docs
 
 To install, clone this repo
 
